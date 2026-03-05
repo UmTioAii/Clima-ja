@@ -41,4 +41,42 @@ Acesse: ** [clima-j.vercel.app](http://clima-j.vercel.app/) **
 
 ```text
 
-
+Clima-ja/
+├─ public/
+│  ├─ favicon.ico
+│  └─ assets/
+│     └─ (imagens estáticas)
+├─ src/
+│  ├─ assets/
+│  │  └─ (imagens, ícones, svg)
+│  ├─ components/
+│  │  ├─ Header/
+│  │  │  ├─ index.jsx
+│  │  │  └─ styles.css
+│  │  ├─ SearchBar/
+│  │  │  ├─ index.jsx
+│  │  │  └─ styles.css
+│  │  ├─ WeatherCard/
+│  │  │  ├─ index.jsx
+│  │  │  └─ styles.css
+│  │  └─ Loading/
+│  │     ├─ index.jsx
+│  │     └─ styles.css
+│  ├─ pages/
+│  │  └─ Home/
+│  │     ├─ index.jsx
+│  │     └─ styles.css
+│  ├─ services/
+│  │  └─ weatherApi.js
+│  ├─ utils/
+│  │  └─ formatters.js
+│  ├─ styles/
+│  │  └─ global.css
+│  ├─ App.jsx
+│  └─ main.jsx
+├─ .env.example
+├─ .gitignore
+├─ index.html
+├─ package.json
+├─ vite.config.js
+└─ README.md
