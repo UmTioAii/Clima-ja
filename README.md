@@ -1,48 +1,52 @@
-🌤️ Clima Já
-Clima Já é uma aplicação web moderna e responsiva que fornece a previsão do tempo atualizada para qualquer cidade do mundo. Desenvolvida com React e Vite, a interface é limpa, rápida e focada na experiência do usuário.
+# 🌤️ Clima Já
 
+Aplicação web **moderna, rápida e responsiva** para consultar o **clima em tempo real** de qualquer cidade do mundo.  
+Construída com **React + Vite**, com interface limpa e foco em usabilidade.
 
+<!-- Badges (opcionais) -->
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-informational?style=flat)
 
-🌐 Acesse a aplicação: clima-j.vercel.app
+## 🌐 Demo
 
+Acesse: **clima-j.vercel.app**
 
+> Dica: se quiser, posso ajustar para um link clicável com `https://` (algumas plataformas exigem).
 
-✨ Funcionalidades
+---
 
+## ✨ Funcionalidades
 
-Busca global por cidade.
+- 🔎 **Busca global por cidade**
+- 🌡️ **Temperatura atual**
+- 💧 **Umidade**
+- 💨 **Velocidade do vento**
+- 🤒 **Sensação térmica**
+- 📝 **Descrição do clima**
+- 📱 **Totalmente responsivo** (mobile, tablet e desktop)
+- ⚡ **Dados em tempo real** via API de clima
 
-Exibição de temperatura atual, umidade, velocidade do vento, sensação térmica e descrição do clima.
+---
 
-Design totalmente responsivo (funciona em celulares, tablets e desktops).
+## 🖼️ Preview
 
-Dados em tempo real consumidos de uma API de previsão do tempo.
+> Sugestão: adicione 1–3 screenshots em `public/` e referencie aqui. Exemplo:
+>
+> `![Preview](public/preview.png)`
 
+---
 
+## 🛠️ Tecnologias
 
+- **React**
+- **Vite**
+- **API de Clima** (ex.: OpenWeather / WeatherAPI / etc.)
 
-🛠️ Tecnologias utilizadas
-React
+---
 
-Vite
+## 📁 Estrutura do projeto
 
-API de Clima (ou a que você estiver usando)
+```text
 
-
-📁 Estrutura do projeto
-text
-Clima-ja/
-
-├── public/          # Arquivos estáticos
-
-├── src/             # Código-fonte da aplicação
-
-├── .env.example     # Exemplo de variáveis de ambiente
-
-├── .gitignore
-
-├── index.html
-
-├── package.json
-
-└── vite.config.js
+
