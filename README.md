@@ -27,12 +27,6 @@ Acesse: ** [clima-j.vercel.app](http://clima-j.vercel.app/) **
 
 ---
 
-## 🖼️ Preview
-
-> Sugestão: adicione 1–3 screenshots em `public/` e referencie aqui. Exemplo:
->
-> `![Preview](public/preview.png)`
-
 ---
 
 ## 🛠️ Tecnologias
