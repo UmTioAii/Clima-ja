@@ -10,9 +10,7 @@ Construída com **React + Vite**, com interface limpa e foco em usabilidade.
 
 ## 🌐 Demo
 
-Acesse: **clima-j.vercel.app**
-
-> Dica: se quiser, posso ajustar para um link clicável com `https://` (algumas plataformas exigem).
+Acesse: ** [clima-j.vercel.app](http://clima-j.vercel.app/) **
 
 ---
 
